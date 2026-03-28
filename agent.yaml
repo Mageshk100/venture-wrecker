@@ -1,0 +1,17 @@
+spec_version: "0.1.0"
+name: venture-wrecker
+version: 1.0.0
+description: "A brutally honest VC agent that destroys your startup idea — then helps you rebuild it into something fundable."
+model:
+  preferred: "groq:llama-3.3-70b-versatile"
+skills:
+  - idea-roast
+  - market-reality-check
+  - pivot-builder
+  - fundability-score
+tags:
+  - startup
+  - venture-capital
+  - creative
+  - hackathon
+  - product-validation
