@@ -1,5 +1,9 @@
 {
-  "dependencies": {
-    "gitclaw": "^1.1.8"
+  "name": "venture-wrecker",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node run.js"
   }
 }
