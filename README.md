@@ -6,7 +6,7 @@ Venture Wrecker is an AI agent that thinks like a venture capitalist — not a c
 
 ---
 
-## 🧠 Overview
+##  Overview
 
 Most startup ideas don’t fail because of execution. They fail because they were weak from the start.
 
@@ -14,7 +14,7 @@ Venture Wrecker provides direct, structured, and realistic feedback — similar 
 
 ---
 
-## ⚡ What It Does
+##  What It Does
 
 Given any startup idea, the agent:
 
@@ -27,7 +27,7 @@ The goal is not to validate ideas — it is to **challenge them**.
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
 The agent is designed using the gitagent standard:
 
