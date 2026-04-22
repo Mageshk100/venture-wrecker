@@ -89,7 +89,7 @@ venture-wrecker/
 
 ---
 
-## 🌟 Why It Stands Out
+## 🌟 Why It Stands Out ##
 
 * 🧠 Focuses on decision-making, not generic responses
 * 💼 Simulates how real investors evaluate ideas
