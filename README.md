@@ -98,7 +98,7 @@ venture-wrecker/
 
 ---
 
-## 🎯 Use Cases
+##  Use Cases
 
 * Startup idea validation
 * Hackathon project refinement
